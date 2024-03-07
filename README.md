@@ -8,4 +8,5 @@ Check out some of my projects! (Disclaimer: Most projects are still a work in pr
 * Tetris - A CLI for Tetris! Runs in several languages - currently implimented are Python and Java.
 * firefox-user-styles - An automation script that allows you to import all of your custom `userChrome.css`, `userContent.css`, and `user.js` onto a new machine.
 * FYRE2024 - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base.
+* turtle-overhaul - A websocktet interface to control computercraft turtles autonomously
 * And more!
