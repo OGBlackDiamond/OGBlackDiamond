@@ -1,5 +1,5 @@
 ### About Me
-Hello! I'm BlackDiamond. No, the name doesn't mean anything special, I just thought it sounded cool in elementary school and it stuck.
+Hello! I'm BlackDiamond. No, the name doesn't mean anything special, I just thought it sounded cool in elementary school and it stuck as my pseudoname for anything online.
 
 I'm currently 16 years old and an aspiring software engeneer as you may have guessed.
 
