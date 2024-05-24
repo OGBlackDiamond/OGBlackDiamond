@@ -1,5 +1,5 @@
 ### About Me
-Hello! I'm BlackDiamond. No, the name doesn't mean anything special, I just thought it sounded cool in elementary school and it stuck as my pseudoname for anything online.
+Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I just thought it sounded cool in elementary school and it stuck as my pseudoname for anything online. I get it, its cringe, blah blah blah. I'm not creative enought to think of anything better.
 
 I'm currently 17 years old and an aspiring software engineer as you may have guessed.
 
