@@ -3,7 +3,7 @@ Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I j
 
 I'm currently 17 years old and an aspiring software engineer as you may have guessed.
 
-Check out some of my projects! (Disclaimer: Most projects are still a work in progress)
+Check out some of my projects!
 * Proxy-Messages - A Minecraft Velocity/Paper plugin that provides customizable messages across the entire network when players join, leave, and switch between servers.
 * Proxy-Portals - A Minecraft Paper plugin that allows users to register nether portals to transport them to other servers on the network.
 * Project Aristotle - An AI virtual assistant that can remember conversations that it has, and can interact with you on a personal level!
