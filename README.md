@@ -9,7 +9,7 @@ My favorite language: **Java**<br/>
 My best language: **Python**<br/>
 I'm also fluent in:
 * Lua
-* C / C++
+* C++
 * C#
 
 Languages I'm trying to learn:
