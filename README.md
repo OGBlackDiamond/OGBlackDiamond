@@ -5,8 +5,8 @@ I'm currently 17 years old.
 
 Fedora Linux is my go-to operating system of choice.
 
-My favorite language: **Java**
-My best language: **Python**
+My favorite language: **Java**<br/>
+My best language: **Python**<br/>
 I'm also fluent in:
 * Lua
 * C / C++
