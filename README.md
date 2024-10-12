@@ -3,6 +3,8 @@ Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I j
 
 Fedora Linux is my go-to operating system of choice.
 
+I'm becoming a Neovim wizard.
+
 My favorite language: **Java**<br/>
 My best language: **Python**<br/>
 I'm also fluent in:
