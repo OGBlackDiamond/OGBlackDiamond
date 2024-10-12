@@ -21,6 +21,10 @@ Feel free to check out some of my projects:
 * [firefox-user-styles](https://github.com/OGBlackDiamond/firefox-user-styles) - An automation script that allows you to import all of your custom `userChrome.css`, `userContent.css`, and `user.js` onto a new machine.
 * [FYRE2024](https://github.com/FYREStation/FYRE2024) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base.
 * [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
+*
+[pongduino](https://github.com/OGBlackDiamond/pongduino) Pong for the Arduino using an 8x8 MAX7219 display from scratch with no libraries.
+*
+[3duino](https://github.com/AdoHTQ/3duino) A 3d graphics engine on the Arduino using a 16x16 MAX7219 display from scratch with no libraries.
 * And more!
 
 [![wakatime](https://wakatime.com/badge/user/d74ff05a-d128-4043-b694-bc10b155db9a.svg)](https://wakatime.com/@d74ff05a-d128-4043-b694-bc10b155db9a)
