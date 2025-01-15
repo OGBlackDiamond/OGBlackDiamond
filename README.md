@@ -1,7 +1,7 @@
 ### About Me
 Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I just thought it sounded cool in elementary school and it stuck as my pseudoname online. I get it, its cringe, blah blah blah. I'm not creative enought to think of anything better.
 
-Fedora Linux is my go-to operating system of choice.
+Fedora Linux is my operating system of choice.
 
 I'm becoming a Neovim wizard.
 
