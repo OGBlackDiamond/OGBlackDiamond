@@ -17,14 +17,13 @@ Languages I'm trying to learn:
 * Assembly
 
 Feel free to check out some of my projects:
-* [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity/Paper plugin that provides customizable messages across the entire network when players join, leave, and switch between servers.
-* [Proxy-Portals](https://github.com/OGBlackDiamond/Proxy-Portals) - A Minecraft Paper plugin that allows users to register nether portals to transport them to other servers on the network.
-* [Project Aristotle](https://github.com/OGBlackDiamond/Project-Aristotle) - An AI virtual assistant that can remember conversations that it has, and can interact with you on a personal level!
-* [firefox-user-styles](https://github.com/OGBlackDiamond/firefox-user-styles) - An automation script that allows you to import all of your custom `userChrome.css`, `userContent.css`, and `user.js` onto a new machine.
 * [FYRE2024](https://github.com/FYREStation/FYRE2024) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base.
 * [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
-* [pongduino](https://github.com/OGBlackDiamond/pongduino) Pong for the Arduino using MAX7219 display(s) from scratch with no libraries.
-* [rayduino](https://github.com/OGBlackDiamond/rayduino) A raytracer graphics engine for the Arduino using the SSD1331 display from scratch with no libraries.
+* [Photon](https://github.com/OGBlackDiamond/photon) A raytracer graphics engine written in C++ using OpenGL.
+* [rayduino](https://github.com/OGBlackDiamond/rayduino) A raytracer graphics engine for the Arduino using an SSD1331 display from scratch with no libraries.
+* [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity/Paper plugin that provides customizable messages across the entire network when players join, leave, and switch between servers.
+* [Proxy-Portals](https://github.com/OGBlackDiamond/Proxy-Portals) - A Minecraft Paper plugin that allows users to register nether portals to transport them to other servers on the network.
 * And more!
 
 [![wakatime](https://wakatime.com/badge/user/d74ff05a-d128-4043-b694-bc10b155db9a.svg)](https://wakatime.com/@d74ff05a-d128-4043-b694-bc10b155db9a)
+[![languages over time](https://wakatime.com/share/@BlackDiamond/b7d97a31-3abe-4071-9f3f-29c3dee3cd63.svg)](https://wakatime.com/@d74ff05a-d128-4043-b694-bc10b155db9a)
