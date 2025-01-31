@@ -17,7 +17,7 @@ Languages I'm trying to learn:
 * Assembly
 
 Feel free to check out some of my projects:
-* [FYRE2024](https://github.com/FYREStation/FYRE2024) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base.
+* [FYRE2025](https://github.com/FYRE5480/FYRE2025) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base, including the template it was built on.
 * [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
 * [Photon](https://github.com/OGBlackDiamond/photon) A raytracer graphics engine written in C++ using OpenGL.
 * [rayduino](https://github.com/OGBlackDiamond/rayduino) A raytracer graphics engine for the Arduino using an SSD1331 display from scratch with no libraries.
@@ -26,4 +26,5 @@ Feel free to check out some of my projects:
 * And more!
 
 [![wakatime](https://wakatime.com/badge/user/d74ff05a-d128-4043-b694-bc10b155db9a.svg)](https://wakatime.com/@d74ff05a-d128-4043-b694-bc10b155db9a)
+
 [![languages over time](https://wakatime.com/share/@BlackDiamond/b7d97a31-3abe-4071-9f3f-29c3dee3cd63.svg)](https://wakatime.com/@d74ff05a-d128-4043-b694-bc10b155db9a)
