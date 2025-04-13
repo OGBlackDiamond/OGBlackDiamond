@@ -21,7 +21,7 @@ Feel free to check out some of my projects:
 * [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
 * [Photon](https://github.com/OGBlackDiamond/photon) A raytracer graphics engine written in C++ using OpenGL.
 * [rayduino](https://github.com/OGBlackDiamond/rayduino) A raytracer graphics engine for the Arduino using an SSD1331 display from scratch with no libraries.
-* [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity/Paper plugin that provides customizable messages across the entire network when players join, leave, and switch between servers.
+* [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity plugin that provides customizable messages across all backend servers.
 * [Proxy-Portals](https://github.com/OGBlackDiamond/Proxy-Portals) - A Minecraft Paper plugin that allows users to register nether portals to transport them to other servers on the network.
 * And more!
 
