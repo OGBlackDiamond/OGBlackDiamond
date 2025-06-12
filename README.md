@@ -1,4 +1,4 @@
-### About Me
+## About Me
 Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I just thought it sounded cool in school and it stuck as my pseudoname online. I get it, its cringe, blah blah blah. I'm not creative enought to think of anything better.
 
 Fedora Linux is my operating system of choice.
@@ -15,6 +15,10 @@ I'm also fluent in:
 Languages I'm trying to learn:
 * Javascript / Typescript
 * Assembly
+
+
+### *I do not use AI in any implimentation to write my code*
+
 
 Feel free to check out some of my projects:
 * [FYRE2025](https://github.com/FYRE5480/FYRE2025) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base, including almost all of the template it was built on, [Hot-Wheels](https://github.com/FYRE5480/Hot-Wheels).
