@@ -17,7 +17,7 @@ Languages I'm trying to learn:
 * Assembly
 
 
-### *I do not use AI in any implimentation to write my code*
+### *I do not use AI in any implementation to write my code*
 
 
 Feel free to check out some of my projects:
