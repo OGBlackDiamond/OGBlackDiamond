@@ -3,14 +3,16 @@ Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I j
 
 Fedora Linux is my operating system of choice.
 
+I enjoy tiling window managers.
+
 I'm becoming a Neovim wizard.
 
 My favorite language: **Java**<br/>
 My best language: **Python**<br/>
 I'm also fluent in:
 * C++
-* Lua
 * C#
+* Lua
 
 Languages I'm trying to learn:
 * Javascript / Typescript
@@ -21,6 +23,7 @@ Languages I'm trying to learn:
 
 
 Feel free to check out some of my projects:
+* [T.A.C.O.S.](https://github.com/UNR-Aerospace-Club/T.A.C.O.S) - Total Avionics Control and Operations System. The custom hardware and software used for our AIO modular avionics solution. 
 * [FYRE2025](https://github.com/FYRE5480/FYRE2025) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base, including almost all of the template it was built on, [Hot-Wheels](https://github.com/FYRE5480/Hot-Wheels).
 * [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
 * [Photon](https://github.com/OGBlackDiamond/photon) A raytracer graphics engine written in C++ using OpenGL.
