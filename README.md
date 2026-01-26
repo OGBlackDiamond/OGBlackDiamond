@@ -19,7 +19,7 @@ Languages I'm trying to learn:
 * Assembly
 
 
-### *I do not use AI in any implementation to write my code*
+#### *I use AI as a tool to write some of my code*
 
 
 Feel free to check out some of my projects:
