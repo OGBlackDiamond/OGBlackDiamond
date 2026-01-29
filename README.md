@@ -25,10 +25,10 @@ Languages I'm trying to learn:
 Feel free to check out some of my projects:
 * [T.A.C.O.S.](https://github.com/UNR-Aerospace-Club/T.A.C.O.S) - Total Avionics Control and Operations System. The custom hardware and software used for our AIO modular avionics solution. 
 * [FYRE2025](https://github.com/FYRE5480/FYRE2025) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base, including almost all of the template it was built on, [Hot-Wheels](https://github.com/FYRE5480/Hot-Wheels).
+* [Alaya-Vijnana](https://github.com/OGBlackDiamond/Alaya-Vijnana) The hardware and software files for my custom split ortholinear column-staggered keyboard.
+* [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity plugin that provides customizable messages across all backend servers.
 * [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
 * [Photon](https://github.com/OGBlackDiamond/photon) A raytracer graphics engine written in C++ using OpenGL.
-* [rayduino](https://github.com/OGBlackDiamond/rayduino) A raytracer graphics engine for the Arduino using an SSD1331 display from scratch with no libraries.
-* [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity plugin that provides customizable messages across all backend servers.
 * And more!
 
 [![wakatime](https://wakatime.com/badge/user/d74ff05a-d128-4043-b694-bc10b155db9a.svg)](https://wakatime.com/@d74ff05a-d128-4043-b694-bc10b155db9a)
