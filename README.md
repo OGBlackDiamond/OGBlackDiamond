@@ -8,9 +8,9 @@ I enjoy tiling window managers.
 I'm becoming a Neovim wizard.
 
 My favorite language: **Java**<br/>
-My best language: **Python**<br/>
+My best language: **C++**<br/>
 I'm also fluent in:
-* C++
+* Python
 * C#
 * Lua
 
