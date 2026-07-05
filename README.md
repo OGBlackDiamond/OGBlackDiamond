@@ -27,7 +27,7 @@ Feel free to check out some of my projects:
 * [FYRE2025](https://github.com/FYRE5480/FYRE2025) - The robot code for FRC team FYRE 5480 - I contribute heavily to this code base, including almost all of the template it was built on, [Hot-Wheels](https://github.com/FYRE5480/Hot-Wheels).
 * [Alaya-Vijnana](https://github.com/OGBlackDiamond/Alaya-Vijnana) The hardware and software files for my custom split ortholinear column-staggered keyboard.
 * [Proxy-Messages](https://github.com/OGBlackDiamond/Proxy-Messages) - A Minecraft Velocity plugin that provides customizable messages across all backend servers.
-* [turtle-overhaul](https://github.com/OGBlackDiamond/turtle-overhaul) - A websocktet interface to control computercraft turtles autonomously
+* [watchdog-chess](https://github.com/OGBlackDiamond/watchdog-chess) - A chess engine / computer I wrote - negamax / alpha-beta bot
 * [Photon](https://github.com/OGBlackDiamond/photon) A raytracer graphics engine written in C++ using OpenGL.
 * And more!
 
