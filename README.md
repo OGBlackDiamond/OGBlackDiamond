@@ -10,6 +10,7 @@ I'm becoming a Neovim wizard.
 My favorite language: **Java**<br/>
 My best language: **C++**<br/>
 I'm also fluent in:
+* Go(lang)
 * Python
 * C#
 * Lua
