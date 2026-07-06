@@ -1,7 +1,7 @@
 ## About Me
 Hello! I'm Caden. No, the name "BlackDiamond" doesn't mean anything special, I just thought it sounded cool in school and it stuck as my pseudoname online. I get it, its cringe, blah blah blah. I'm not creative enought to think of anything better.
 
-Fedora Linux is my operating system of choice.
+Arch Linux is my operating system of choice.
 
 I enjoy tiling window managers.
 
@@ -15,12 +15,7 @@ I'm also fluent in:
 * C#
 * Lua
 
-Languages I'm trying to learn:
-* Javascript / Typescript
-* Assembly
-
-
-#### *I use AI as a tool*
+#### *I use AI as a tool for some projects*
 
 
 Feel free to check out some of my projects:
